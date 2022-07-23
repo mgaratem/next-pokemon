@@ -1,5 +1,5 @@
-<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jqjU4k0C--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png" width="500">
-<img alt="typescript" src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jqjU4k0C--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png" width="600">
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 <p align="center"> Pokédex app based on ⚛React with Typescript</p>
